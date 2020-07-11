@@ -1,0 +1,57 @@
+.weather-container
+{
+    background:url("weather1.jpg");
+    background-size:cover;
+	background-repeat:no repeat;
+    text-align:center;
+    padding:20px;
+    color:white;
+}
+.weather 
+{
+    font-size: 22px;
+    margin:0;
+}
+
+.temperature
+{
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+}
+.name
+{
+    font-size: 20px;
+    margin: 0;
+    font-weight: bold;
+}
+.latitude
+{
+    font-size: 20px;
+    margin: 0;
+    font-weight: normal;
+}
+.longitude
+{
+    font-size: 20px;
+    margin: 0;
+    font-weight: normal;
+}
+.Minimum-Temperature
+{
+    font-size: 20px;
+    margin: 0;
+    font-weight: normal;
+}
+.Maximum-Temperature
+{
+    font-size: 20px;
+    margin: 0;
+    font-weight: normal;
+}
+.speed
+{
+    font-size:20px;
+    margin: 0;
+    font-weight: normal;
+}
